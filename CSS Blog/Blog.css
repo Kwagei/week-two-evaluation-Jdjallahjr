@@ -1,0 +1,17 @@
+body{
+    background: peachpuff;
+}
+h1{
+    border-style: outset;
+    background: rgb(204, 148, 98);
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: -7px;
+    color: solid burlywood;
+}
+aside{
+    border-style: solid;
+    color: red;
+    background: khaki;
+    
+}

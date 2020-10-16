@@ -1,0 +1,14 @@
+table{
+    background-color: chocolate;
+    background: darkgray;
+}
+body{
+    border: 2px black;
+    color: darkslateblue;
+    background-color: darkturquoise;
+}
+article{
+    word-wrap: normal;
+    border: 5px black;
+    color: red;
+}
