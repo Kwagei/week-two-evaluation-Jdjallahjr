@@ -1,0 +1,18 @@
+form{
+    color: green;
+}
+button{
+    color: green;
+}
+body{
+    background-color: black;
+}
+h1{
+    border: 2px green;
+    border-style: inset;
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: -7px;
+    color: solid burlywood;
+}

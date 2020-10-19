@@ -1,0 +1,30 @@
+body {
+    background-color: black;  
+  }
+  
+  h1 {
+      width:;
+    color: rgb(236, 80, 18);
+    margin-left: 100px;
+  }
+  nav{
+    width: 10;
+    height: 50;
+    border: 3px solid black;
+    color: green !important;
+  }
+  form{
+      width: 20;
+      height: 100;
+      line-height:;
+      border: 2px solid rgb(20, 18, 17);
+  }
+  button{
+      color: black;
+  }
+  button{
+    color: green;
+  }
+  footer{
+    color: green;
+  }
